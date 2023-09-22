@@ -1,4 +1,4 @@
-# co6d6447980497dd5775ab78d
+# Poetic Phrase Generator
 
 Quick start:
 
@@ -7,15 +7,5 @@ $ npm install
 $ npm start
 ````
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+The Poetic Phrase Generator is a phrase generator that uses the OpenAI API and the Unsplash API to generate phrases. It is a tool that can help you create poetic and creative phrases. It is written in JavaScript and can be run using the following commands:
+The generator uses the OpenAI API to generate phrases based on your input and the Unsplash API to provide images for inspiration. It combines these two sources to create unique and imaginative phrases.
